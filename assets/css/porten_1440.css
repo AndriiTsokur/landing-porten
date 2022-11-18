@@ -1,0 +1,15 @@
+input[type="text"] {
+	width: 40%;
+}
+
+.hero_container img {
+	max-width: 30%;
+}
+
+.hero_container p {
+	margin-top: 5%;
+}
+
+.footer_top {
+	height: 30vh;
+}

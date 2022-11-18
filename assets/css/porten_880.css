@@ -1,0 +1,43 @@
+/* li.current {
+	background-color: green;
+} */
+
+nav {
+	width: 90%; /* +12.2% to previous value */
+}
+
+input[type="submit"] {
+	padding: 10px 9px;
+}
+
+.header_top {
+	width: 90%; /* +12.2% to previous value */
+}
+
+ul.header_nav_text {
+    line-height: 50px; /* -10px of previous value */
+}
+
+.collection_container_content p {
+	font-size: .9rem;
+}
+
+.arrivals_container {
+	width: 90%; /* +12.2% to previous value */
+}
+
+.brands_container {
+	width: 90%; /* +12.2% to previous value */
+}
+
+.footer_top {
+	height: 60vh;
+}
+
+.footer_top_container {
+	width: 90%; /* +12.2% to previous value */
+}
+
+.basement {
+	width: 90%; /* +12.2% to previous value */
+}

@@ -1,0 +1,52 @@
+/* li.current {
+	background-color: red;
+} */
+
+nav {
+	width: 67.8%; /* +10% to previous value */
+}
+
+hr {
+	margin: 15px 0 25px 0;
+}
+
+input[type="submit"] {
+	padding: 10px 10px;
+}
+
+.header_top {
+	width: 67.8%; /* +10% to previous value */
+}
+
+ul.header_nav_text {
+    line-height: 70px; /* -10px of previous value */
+}
+
+.collection_container_content {
+	width: 75%;
+}
+
+.arrivals_container {
+	width: 67.8%; /* +10% to previous value */
+}
+
+.brands_container {
+	width: 67.8%; /* +10% to previous value */
+}
+
+.footer_top {
+	height: 45vh;
+}
+
+.footer_top_container {
+	width: 67.8%; /* +10% to previous value */
+}
+
+.basement {
+	width: 67.8%; /* +10% to previous value */
+}
+
+.slider__item {
+	flex: 0 0 33.3333333333%;
+	max-width: 33.3333333333%;
+}

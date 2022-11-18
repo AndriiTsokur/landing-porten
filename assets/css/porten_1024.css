@@ -1,0 +1,66 @@
+/* li.current {
+	background-color: blue;
+} */
+
+nav {
+	width: 77.8%; /* +10% to previous value */
+}
+
+a.btn {
+	font-size: 1.4rem;
+	padding: 8px 18px;
+}
+
+h1 {
+	font-size: 2.6rem;
+}
+
+h2 {
+	font-size: 1.4rem;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.header_top {
+	width: 77.8%; /* +10% to previous value */
+}
+
+ul.header_nav_text {
+    line-height: 60px; /* -10px of previous value */
+}
+
+.hero_container {
+	width: 70%;
+}
+
+.new_season_item p {
+	font-size: 1.2rem
+}
+
+.new_season_item_image {
+	padding: 15% 0;
+}
+
+.collection_container_content {
+	width: 85%;
+}
+
+.collection_container_content a.btn {
+	margin-top: 5%;
+}
+
+.arrivals_container {
+	width: 77.8%; /* +10% to previous value */
+}
+
+.brands_container {
+	width: 77.8%; /* +10% to previous value */
+}
+
+.footer_top_container {
+	width: 77.8%; /* +10% to previous value */
+}
+
+.basement {
+	width: 77.8%; /* +10% to previous value */
+}
